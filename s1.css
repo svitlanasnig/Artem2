@@ -1,0 +1,163 @@
+header{
+/* Rectangle 1 */
+
+position: absolute;
+width: 780px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+background: #0E7FE8;
+
+
+}
+main{
+/* Rectangle 5 */
+
+position: absolute;
+width: 780px;
+height: 700px;
+left: 0px;
+top: 51px;
+
+background: url(2.png);
+
+
+}
+footer{
+ /* Rectangle 2 */
+
+position: absolute;
+width: 780px;
+height: 37px;
+left: 0px;
+top: 720px;
+
+background: linear-gradient(90deg, #1B1EDF 0%, #0F1079 49.04%);
+   
+}
+.logo{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 76px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+background: url(6ec48ff2-8efd-4c15-b655-c41a67d01b1d.png);
+
+}
+.a{/* Головна */
+
+position: absolute;
+width: 63px;
+height: 20px;
+left: 197px;
+top: 10px;
+
+font-family: 'JetBrains Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+.b{/* Меню */
+
+position: absolute;
+width: 36px;
+height: 40px;
+left: 381px;
+top: 10px;
+
+font-family: 'JetBrains Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+}
+.c{
+    /* Mentol */
+
+position: absolute;
+width: 230px;
+height: 92px;
+left: 238px;
+top: 100px;
+
+font-family: 'Kaushan Script';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 93px;
+
+background: linear-gradient(180deg, #36A8BC 0%, #194C56 48.08%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+.d{
+/* Відчуй смак кави тоді коли навіть добре,холодно */
+
+position: absolute;
+width: 538px;
+height: 58px;
+left: 112px;
+top: 248px;
+
+font-family: 'JetBrains Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 10px;
+/* or 42% */
+text-align: center;
+
+background: linear-gradient(90deg, #0224FF 0%, #011699 78.85%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+.aboba{
+    /* Rectangle 6 */
+
+position: absolute;
+width: 140px;
+height: 36px;
+left: 274px;
+top: 400px;
+
+background: linear-gradient(90deg, #D43333 0%, #1A1C6E 70.67%);
+
+}
+.f{
+    /* Наш номер:093 34 55 67 26 19 */
+
+position: absolute;
+width: 252px;
+height: 10px;
+left: 188px;
+
+
+font-family: 'JetBrains Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 10px;
+/* identical to box height, or 67% */
+
+color: #FFFFFF;
+
+
+}
